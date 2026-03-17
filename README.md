@@ -1,17 +1,16 @@
-🚀 YouTube Data Dashboard with Streamlit**
+# 📊 YouTube Data Dashboard
 
-Excited to share my latest project where I built an interactive **YouTube Data Dashboard** using **Python & Streamlit** 📊
+## 🚀 Overview
+An interactive YouTube dashboard built using **Python & Streamlit** to analyze video performance, subscriber growth, and engagement using YouTube Data API.
 
-🔹 **Key Highlights:**
+## 🎯 Features
+- 📈 Views, watch time & engagement analysis  
+- 📊 Bar charts for top videos  
+- 📉 Subscriber growth trends  
+- 🔍 Interactive filters  
 
-* Visualized metrics like **views, watch time, subscriber growth, and engagement**
-* Created **interactive charts** (bar charts for top videos & line graphs for trends)
-* Integrated **YouTube Data API** for real-time data
-* Added dynamic filters for better exploration
+## 🛠️ Tech Stack
+Python, Streamlit, Pandas, Matplotlib, Seaborn, YouTube Data AP
 
-💡 This project helped me strengthen my skills in **data analysis, visualization, and dashboard building**.
-
-🔗 Check out the project here:
-https://github.com/kakderohan91-lab/movie_rating_analysis.git
-
-#DataScience #Python #Streamlit #DataVisualization #YouTubeAnalytics #EDA
+## 🙌 Note
+Built as part of my Data Science internship project.

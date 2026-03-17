@@ -10,7 +10,11 @@ An interactive YouTube dashboard built using **Python & Streamlit** to analyze v
 - 🔍 Interactive filters  
 
 ## 🛠️ Tech Stack
-Python, Streamlit, Pandas, Matplotlib, Seaborn, YouTube Data AP
+Python, Streamlit, Pandas, Matplotlib, Seaborn, YouTube Data API
+
+## ⚙️ Run Locally
+```
+```
 
 ## 🙌 Note
 Built as part of my Data Science internship project.
